@@ -1,9 +1,3 @@
 Stoi na stacji lokomotywa
 Ciężka, ogromna i pot z niej spływa
-<<<<<<< HEAD
-– tłusta oliwa
- ciuch, ciuch
-lokomotywa odjeżdża
-=======
-– tłusta oliwa
->>>>>>> parent of ff8e7e3 (komentarz)
+
