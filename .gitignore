@@ -1,0 +1,5 @@
+*.doc #ignorowanie doc
+*.docx #ignorowanie docx
+*.tmp #ignorowanie tmp
+*.inf #ignorowanie inf
+Tmp #igorowanie katalogu tmp
